@@ -1,0 +1,646 @@
+registrant,modelDisplayName,model,sourceURL
+Artifact Hub,Azure Active Directory (AAD),aad-pod-identity,AH
+Artifact Hub,Accurate,accurate,AH
+Artifact Hub,Appscode Container Engine,ace,https://charts.appscode.com/stable/ace/ace-v2023.11.14.tgz
+Artifact Hub,Actions Runner Controller (ARC),actions-runner-controller,AH
+Artifact Hub,Epam Delivery Platform (EDP) Admin Console,admin-console-operator,AH
+Artifact Hub,Aerokube,aerokube,AH
+Artifact Hub,Aerospike Kubernetes Operator,aerospike-kubernetes-operator,AH
+Artifact Hub,Ai Scale Doer,ai-scale-doer,AH
+Artifact Hub,Aigisuk,aigisuk,AH
+Artifact Hub,Akri,akri,AH
+Artifact Hub,Azure Application Gateway ,aks-appgw-fe,AH
+Artifact Hub,Altinity Clickhouse Operator,altinity-clickhouse-operator,AH
+Artifact Hub,Ambassador,ambassador,AH
+Artifact Hub,AMD GPU,amd-gpu,AH
+Artifact Hub,Antrea,antrea,AH
+Artifact Hub,Apache Shardingsphere Operator Charts,apache-shardingsphere-operator-charts,AH
+Artifact Hub,Aperture Agent,aperture-agent,AH
+Artifact Hub,Aperture Controller,aperture-controller,AH
+Artifact Hub,Apisix,apisix,AH
+Artifact Hub,APISIX Ingress Controller,apisix-ingress-controller,AH
+Artifact Hub,Appscode Application CRDs,application-crds,AH
+Artifact Hub,AWS App Mesh,appmesh-controller,AH
+Artifact Hub,Aranya,aranya,AH
+Artifact Hub,Argo CD Applications,argo-cd,AH
+Artifact Hub,Argo Workflows,argo-workflows,AH
+Artifact Hub,Argo CD,argocd,AH
+Artifact Hub,Argo CD Operator,argocd-operator,AH
+Artifact Hub,Armory Spinnaker Operator,armory-spinnaker-operator,AH
+Artifact Hub,Artifact Hub,artifact-hub,AH
+Artifact Hub,Athenz,athenz,AH
+meshery,Amazon Web Services,aws,git://github.com/meshery/schemas/master/definitions/aws/0.7.2/components
+Artifact Hub,AWS API Gateway Operator,aws-api-gateway-operator,AH
+Artifact Hub,AWS Load Balancer,aws-load-balancer-controller,AH
+Artifact Hub,AWS Node Termination Handler,aws-node-termination-handler-2,AH
+Artifact Hub,AWS Target Group Binding,aws-target-group-binding,AH
+Artifact Hub,AWS VPC CNI,aws-vpc-cni,AH
+Artifact Hub,AWX Operator,awx-operator,AH
+GitHub,AWS Elastic Kubernetes Service,aws-eks-controller,git://github.com/aws-controllers-k8s/eks-controller/main/helm
+GitHub,AWS API Gateway v2,aws-apigatewayv2-controller,git://github.com/aws-controllers-k8s/apigatewayv2-controller/main/helm
+GitHub,AWS Applilcation Autoscaling,aws-applicationautoscaling-controller,git://github.com/aws-controllers-k8s/applicationautoscaling-controller/main/helm
+GitHub,AWS CloudFront,aws-cloudfront-controller,git://github.com/aws-controllers-k8s/cloudfront-controller/main/helm
+GitHub,AWS CloudTrail,aws-cloudtrail-controller,git://github.com/aws-controllers-k8s/cloudtrail-controller/main/helm
+GitHub,AWS CloudWatch,aws-cloudwatch-controller,git://github.com/aws-controllers-k8s/cloudwatch-controller/main/helm
+GitHub,AWS CloudWatch Logs,aws-cloudwatchlogs-controller,git://github.com/aws-controllers-k8s/cloudwatchlogs-controller/main/helm
+GitHub,AWS DynamoDB,aws-dynamodb-controller,git://github.com/aws-controllers-k8s/dynamodb-controller/main/helm
+GitHub,AWS EC2,aws-ec2-controller,git://github.com/aws-controllers-k8s/ec2-controller/main/helm
+GitHub,AWS ElastiCache,aws-elasticache-controller,git://github.com/aws-controllers-k8s/elasticache-controller/main/helm
+GitHub,AWS Elastic Container Registry,aws-ecr-controller,git://github.com/aws-controllers-k8s/ecr-controller/main/helm
+GitHub,AWS ElasticSearch Service,aws-elasticsearchservice-controller,git://github.com/aws-controllers-k8s/elasticsearchservice-controller/main/helm
+GitHub,AWS EMR Containers,aws-emrcontainers-controller,git://github.com/aws-controllers-k8s/emrcontainers-controller/main/helm
+GitHub,AWS EventBridge,aws-eventbridge-controller,git://github.com/aws-controllers-k8s/eventbridge-controller/main/helm
+GitHub,AWS Identity and Access Management,aws-iam-controller,git://github.com/aws-controllers-k8s/iam-controller/main/helm
+GitHub,AWS Kinesis,aws-kinesis-controller,git://github.com/aws-controllers-k8s/kinesis-controller/main/helm
+GitHub,AWS Kinesis,aws-kms-controller,git://github.com/aws-controllers-k8s/kms-controller/main/helm
+GitHub,AWS Lambda,aws-lambda-controller,git://github.com/aws-controllers-k8s/lambda-controller/main/helm
+GitHub,AWS MemoryDB for Redis,aws-memorydb-controller,git://github.com/aws-controllers-k8s/memorydb-controller/main/helm
+GitHub,AWS MQ,aws-mq-controller,git://github.com/aws-controllers-k8s/mq-controller/main/helm
+GitHub,AWS OpenSearch Service,aws-opensearchservice-controller,git://github.com/aws-controllers-k8s/opensearchservice-controller/main/helm
+GitHub,AWS Managed Service for Prometheus,aws-prometheusservice-controller,git://github.com/aws-controllers-k8s/prometheusservice-controller/main/helm
+GitHub,AWS Relational Database Service,aws-rds-controller,git://github.com/aws-controllers-k8s/rds-controller/main/helm
+GitHub,AWS Simple Notification Service,aws-sns-controller,git://github.com/aws-controllers-k8s/sns-controller/main/helm
+GitHub,AWS Step Functions,aws-sfn-controller,git://github.com/aws-controllers-k8s/sfn-controller/main/helm
+GitHub,AWS Secrets Manager,aws-secretsmanager-controller,git://github.com/aws-controllers-k8s/secretsmanager-controller/main/helm
+GitHub,AWS Route 53,aws-route53-controller,git://github.com/aws-controllers-k8s/route53-controller/main/helm
+GitHub,AWS SageMaker,aws-sagemaker-controller,git://github.com/aws-controllers-k8s/sagemaker-controller/main/helm
+GitHub,AWS Route 53 Resolver,aws-route53resolver-controller,git://github.com/aws-controllers-k8s/route53resolver-controller/main/helm
+GitHub,AWS Simple Storage Service (S3),aws-s3-controller,git://github.com/aws-controllers-k8s/s3-controller/main/helm
+GitHub,AWS Simple Queuing Service,aws-sqs-controller,git://github.com/aws-controllers-k8s/sqs-controller/main/helm
+GitHub,AWS Systems Manager,aws-ssm-controller,git://github.com/aws-controllers-k8s/ssm-controller/main/helm
+Artifact Hub,Azure Kubernetes Service,Azure Kubernetes Service,AH
+Artifact Hub,Azure Orkestra,azureorkestra,AH
+Artifact Hub,Backend,backend,AH
+Artifact Hub,Backstage,backstage,AH
+Artifact Hub,Backyards Operator,backyards-operator,AH
+Artifact Hub,base,base,https://istio-release.storage.googleapis.com/charts/base-1.19.0-alpha.1.tgz
+Artifact Hub,Base Cluster,base-cluster,AH
+Artifact Hub,BFE,bfe,AH
+Artifact Hub,Bitpoke,bitpoke,AH
+Artifact Hub,Bitwarden Crd Operator,bitwarden-crd-operator,AH
+Artifact Hub,Bottlerocket Brupop,bottlerocket-brupop,AH
+Artifact Hub,Bottlerocket Update Operator,bottlerocket-update-operator,AH
+Artifact Hub,Brigade,brigade,AH
+Artifact Hub,Brudi Operator,brudi-operator,https://helm.mittwald.de/charts/brudi-operator-0.1.4.tgz
+Artifact Hub,Buildpacks,buildpacks,AH
+Artifact Hub,Bundle Controller,bundle-controller,AH
+Artifact Hub,Bytebuilders Crds,bytebuilders-crds,AH
+Artifact Hub,Project Calico,calico,AH
+Artifact Hub,Camel K,camel-k,AH
+Artifact Hub,Canary Operator,canary-operator,AH
+Artifact Hub,Capsule,capsule,AH
+Artifact Hub,Capsule Proxy,capsule-proxy,AH
+Artifact Hub,Cass Operator,cass-operator,AH
+Artifact Hub,CD Pipeline Operator,cd-pipeline-operator,AH
+Artifact Hub,Cdk For Kubernetes (Cdk8S),cdk8s,AH
+Artifact Hub,Cert Manager,cert-manager,AH
+Artifact Hub,Cert Manager Crds,cert-manager-crds,AH
+Artifact Hub,Cert Manager Csi Driver Cacerts,cert-manager-csi-driver-cacerts,AH
+Artifact Hub,Chaos,chaos,AH
+Artifact Hub,Chaos Mesh,chaos-mesh,AH
+Artifact Hub,Chaosblade Operator,chaosblade-operator,AH
+Artifact Hub,Cilium,cilium,AH
+Artifact Hub,Clickhouse,clickhouse,AH
+Artifact Hub,Cloud Custodian,cloud custodian,AH
+Artifact Hub,Cloudbees Previews,cloudbees-previews,AH
+Artifact Hub,Cloudcore,cloudcore,AH
+Artifact Hub,Cloudevents,cloudevents,AH
+Artifact Hub,Cloudflare Tunnel Operator,cloudflare-tunnel-operator,AH
+Artifact Hub,Cloudman,cloudman,AH
+Artifact Hub,Cluster Essentials,cluster-essentials,AH
+Artifact Hub,Cluster Registry,cluster-registry,AH
+Artifact Hub,Clusternet Agent,clusternet-agent,AH
+Artifact Hub,Clusterpedia,clusterpedia,AH
+Artifact Hub,Clustersecret,clustersecret,AH
+Artifact Hub,CNI Host NIC,cni-hostnic,AH
+Artifact Hub,CNO,cno,AH
+Artifact Hub,Cno Agent,cno-agent,https://beopencloud.github.io/cno/cno-agent-v2.0.2.tgz
+Artifact Hub,Cnpg Sandbox,cnpg-sandbox,AH
+Artifact Hub,Cockroachdb Operator,cockroachdb-operator,AH
+Artifact Hub,Codebase Operator,codebase-operator,AH
+Artifact Hub,Collectorset Controller,collectorset-controller,AH
+Artifact Hub,Community Operator V2,community-operator-v2,AH
+Artifact Hub,Confidential Containers,confidential containers,AH
+Artifact Hub,Config Connector Templater,config-connector-templater,AH
+Artifact Hub,Connect,connect,AH
+Artifact Hub,Consul,consul,AH
+Artifact Hub,Container Network Interface (CNI),container network interface (cni),AH
+Artifact Hub,Containerd,containerd,AH
+Artifact Hub,Containerssh,containerssh,AH
+Artifact Hub,Contour,contour-operator,AH
+Artifact Hub,Contrail Analytics,contrail-analytics,AH
+Artifact Hub,Coredns,coredns,AH
+Artifact Hub,Cortex,cortex,AH
+Artifact Hub,Cosmo Controller Manager,cosmo-controller-manager,AH
+Artifact Hub,Couchbase Monitor Stack,couchbase-monitor-stack,AH
+Artifact Hub,Couchbase Operator,couchbase-operator,AH
+Artifact Hub,Citrix Service Mesh,cpx,AH
+Artifact Hub,CRI-O,cri-o,AH
+Artifact Hub,Crossplane,crossplane,AH
+Artifact Hub,Crossplane,crossplane-types,AH
+Artifact Hub,CSI Secrets Store Provider AWS,csi-secrets-store-provider-aws,AH
+Artifact Hub,CSI Secrets Store Provider Azure,csi-secrets-store-provider-azure,AH
+Artifact Hub,Cubefs,cubefs,AH
+Artifact Hub,Curiefense,curiefense,AH
+Artifact Hub,Dapr,dapr,AH
+Artifact Hub,Dashboard,dashboard,AH
+Artifact Hub,Dask Gateway,dask-gateway,AH
+Artifact Hub,Dask Kubernetes Operator,dask-kubernetes-operator,AH
+Artifact Hub,Daskhub,daskhub,AH
+Artifact Hub,Dast Operator,dast-operator,AH
+Artifact Hub,Datadog Operator,datadog-operator,AH
+Artifact Hub,Datarepo Monitoring,datarepo-monitoring,AH
+Artifact Hub,Datarepomonitoring,datarepomonitoring,AH
+Artifact Hub,DB Operator,db-operator,AH
+Artifact Hub,Deeploy,deeploy,AH
+Artifact Hub,Devfile,devfile,AH
+Artifact Hub,Devspace Cloud,devspace-cloud,AH
+Artifact Hub,Devstream,devstream,AH
+Artifact Hub,Devtron Operator,devtron-operator,AH
+Artifact Hub,Dex,dex,AH
+Artifact Hub,Jfrog Distribution,distribution,AH
+Artifact Hub,Ditto Operator,ditto-operator,AH
+Artifact Hub,Dnation Kubernetes Monitoring Stack,dnation-kubernetes-monitoring-stack,AH
+Artifact Hub,Docker,docker,AH
+Artifact Hub,Docker Mailserver,docker-mailserver,AH
+Artifact Hub,Dokc K8Ssandra Lightweight,dokc-k8ssandra-lightweight,AH
+Artifact Hub,Dragonfly,dragonfly,AH
+Artifact Hub,echoperator,echoperator,AH
+Artifact Hub,Eclipse Che,eclipse-che,AH
+Artifact Hub,EDP Argocd Operator,edp-argocd-operator,AH
+Artifact Hub,EDP Component Operator,edp-component-operator,AH
+Artifact Hub,EDP Install,edp-install,AH
+Artifact Hub,Egeria Base,egeria-base,AH
+Artifact Hub,Egeria Cts,egeria-cts,AH
+Artifact Hub,Egeria Pts,egeria-pts,AH
+Artifact Hub,AWS Elastic Kubernetes Service,eks,AH
+Artifact Hub,Elastic Search,elasticsearch-operator,AH
+Artifact Hub,Emissary Ingress,emissary-ingress,AH
+Artifact Hub,Enterprise Operator,enterprise-operator,AH
+Artifact Hub,Envoy,envoy,AH
+Artifact Hub,Epinio,epinio,AH
+Artifact Hub,Etcd Cluster Operator,etcd-cluster-operator,AH
+Artifact Hub,Example Chaos,example-chaos,AH
+Artifact Hub,External Secrets Operator,external-secrets-operator,AH
+Artifact Hub,Fabedge,fabedge,AH
+Artifact Hub,Fadi,fadi,AH
+Artifact Hub,Falco,falco,AH
+Artifact Hub,Flagger,flagger,AH
+Artifact Hub,Flex Gateway,flex-gateway,AH
+Artifact Hub,Fluent Operator,fluent-operator,AH
+Artifact Hub,Fluentbit Operator,fluentbit-operator,AH
+Artifact Hub,Gloo,gloo,AH
+Artifact Hub,Gloo Mesh,gloo-mesh,AH
+Artifact Hub,Fluentbit Skt,fluentbit-skt,AH
+Artifact Hub,Fluentd Operator,fluentd,AH
+Artifact Hub,Fluentd Operator,fluentd-operator,AH
+Artifact Hub,Fluid,fluid,AH
+Artifact Hub,Flux,flux,AH
+Artifact Hub,Flyte,flyte,AH
+Artifact Hub,Flyte Deps,flyte-deps,AH
+Artifact Hub,Flyte Sandbox,flyte-sandbox,AH
+Artifact Hub,Fmtok8S Conference Chart,fmtok8s-conference-chart,https://salaboy.github.io/helm/fmtok8s-conference-chart-v0.1.4.tgz
+Artifact Hub,Fonio,fonio,AH
+Artifact Hub,Forecastle,forecastle,AH
+Artifact Hub,Frinx Arango Config,frinx-arango-config,AH
+Artifact Hub,Frinx Machine,frinx-machine,AH
+Artifact Hub,Frp Operator,frp-operator,AH
+Artifact Hub,Fsm,fsm,AH
+Artifact Hub,Gafaelfawr,gafaelfawr,AH
+Artifact Hub,Galaxy,galaxy,AH
+Artifact Hub,Galoy,galoy,AH
+Artifact Hub,OPA Gatekeeper,gatekeeper,AH
+Artifact Hub,Gateway,gateway,AH
+meshery,Google Cloud Platform,gcp,git://github.com/meshery/schemas/master/definitions/gcp/0.7.2/components
+Artifact Hub,Gemini,gemini,AH
+Artifact Hub,Gerrit Operator,gerrit-operator,AH
+Artifact Hub,Github,github,AH
+Artifact Hub,Github,github,AH
+Artifact Hub,Github Actions Runner Operator,github-actions-runner-operator,AH
+Artifact Hub,Github Actions Runners,github-actions-runners,AH
+Artifact Hub,GitLab,gitlab,AH
+Artifact Hub,Gitlab Controller,gitlab-controller,AH
+Artifact Hub,Gitlab Runner Operator,gitlab-runner-operator,AH
+Artifact Hub,Gko,gko,AH
+Artifact Hub,Goldilocks,goldilocks,AH
+Artifact Hub,Gooddata Cn,gooddata-cn,AH
+Artifact Hub,Gotway,gotway,AH
+Artifact Hub,Gpu Operator,gpu-operator,AH
+Artifact Hub,Grafana Agent,grafana-agent,AH
+Artifact Hub,Grafana Agent Operator,grafana-agent-operator,AH
+Artifact Hub,Grafana Operator,grafana-operator,AH
+Artifact Hub,Grafana UI Server,grafana-ui-server,AH
+Artifact Hub,GRPC,grpc,AH
+Artifact Hub,Harbor Operator,harbor-operator,AH
+Artifact Hub,Hawkbit Operator,hawkbit-operator,AH
+Artifact Hub,Heist,heist,AH
+Artifact Hub,Helm Controller,helm-controller,AH
+Artifact Hub,Hexa,hexa,AH
+Artifact Hub,Hierarchical Namespace Controller,hierarchical-namespace-controller,AH
+Artifact Hub,Hivemq Operator,hivemq-operator,AH
+Artifact Hub,Hivemq Swarm,hivemq-swarm,AH
+Artifact Hub,Horizon,horizon,AH
+Artifact Hub,Horizon Issuer,horizon-issuer,AH
+Artifact Hub,HPE CSI Driver,hpe-csi-driver,AH
+Artifact Hub,Hub Agent,hub-agent,AH
+Artifact Hub,Hybridnet,hybridnet,AH
+Artifact Hub,Hydra,hydra,AH
+Artifact Hub,Hydra Maester,hydra-maester,AH
+Artifact Hub,Identity Manager,identity-manager,AH
+Artifact Hub,Imagepullsecrets,imagepullsecrets,AH
+Artifact Hub,In Toto,in-toto,AH
+Artifact Hub,Inclavare Containers,inclavare containers,AH
+Artifact Hub,Ingress Azure,ingress-azure,AH
+Artifact Hub,Ingressmonitorcontroller,ingressmonitorcontroller,AH
+Artifact Hub,Inlets Operator,inlets-operator,AH
+Artifact Hub,Insights Agent,insights-agent,AH
+Artifact Hub,Integrated Service Operator,integrated-service-operator,AH
+Artifact Hub,Intel Device Plugins Operator,intel-device-plugins-operator,AH
+Artifact Hub,Invitarr,invitarr,AH
+Artifact Hub,Istio,istio-base,AH
+Artifact Hub,Istio Operator,istio-operator,AH
+Artifact Hub,Istio Rate Limit Operator,istio-ratelimit-operator,AH
+Artifact Hub,Jaeger,jaeger,AH
+Artifact Hub,Jaeger Operator,jaeger-operator,AH
+Artifact Hub,Jenkins Operator,jenkins-operator,AH
+Artifact Hub,Jira Service Desk Operator,jira-service-desk-operator,AH
+Artifact Hub,Jitsi,jitsi,AH
+Artifact Hub,JSpolicy,jspolicy,AH
+Artifact Hub,Jx App Flagger,jx-app-flagger,AH
+Artifact Hub,Jx App Kubeless,jx-app-kubeless,AH
+Artifact Hub,K0S Homelab,k0s-homelab,AH
+Artifact Hub,K3s,k3s,AH
+Artifact Hub,K8GB,k8gb,AH
+Artifact Hub,K8s AWS IAM Controller,k8s-aws-iam-controller,AH
+Artifact Hub,K8s Event Logger Operator,k8s-event-logger-operator,AH
+Artifact Hub,K8s Object Syncer,k8s-object-syncer,AH
+Artifact Hub,K8Sci,k8sci,AH
+Artifact Hub,K8sDB Controller,k8sdb-controller,AH
+Artifact Hub,K8s Keycloak Controller,k8skeycloak-controller,AH
+Artifact Hub,K8s OAuth2 Proxy Controller,k8soauth2-proxy-controller,AH
+Artifact Hub,K8s Prom Patch Controller,k8sprom-patch-controller,AH
+Artifact Hub,K8ssandra,k8ssandra,AH
+Artifact Hub,K8ssandra Operator,k8ssandra-operator,AH
+Artifact Hub,K8s TCPmap Controller,k8stcpmap-controller,AH
+Artifact Hub,K8s Vault Controller,k8svault-controller,AH
+Artifact Hub,Kamaji,kamaji,AH
+Artifact Hub,Kangal,kangal,AH
+Artifact Hub,Kanister Operator,kanister-operator,AH
+Artifact Hub,Karmada,karmada,AH
+Artifact Hub,Karpenter,karpenter,AH
+Artifact Hub,Kubeflow Katib,katib,AH
+Artifact Hub,Kavach,kavach,AH
+GitHub,Keda,keda,git://github.com/kedacore/keda/main/config/crd/bases
+Artifact Hub,Keptn,keptn,AH
+Artifact Hub,Keycloak Operator,keycloak-operator,AH
+Artifact Hub,Keylime,keylime,AH
+Artifact Hub,Kiae,kiae,AH
+Artifact Hub,Kiali Operator,kiali-operator,AH
+Artifact Hub,Kmodules Crds,kmodules-crds,AH
+Artifact Hub,Knative,knative,AH
+Artifact Hub,Knative Serving,knative-serving,AH
+Artifact Hub,Kom Operator,kom-operator,AH
+Artifact Hub,Kommander,kommander,AH
+Artifact Hub,Kong API Gateway,kong,AH
+Artifact Hub,Kong App,kong-app,AH
+Artifact Hub,Kong Mesh,kong-mesh,AH
+Artifact Hub,Kong Preview,kong-preview,AH
+Artifact Hub,Konveyor,konveyor,AH
+Artifact Hub,Krator,krator,AH
+Artifact Hub,Ks Core,ks-core,AH
+Artifact Hub,Ks Installer,ks-installer,AH
+Artifact Hub,Kserve,kserve,AH
+Artifact Hub,Kube Arangodb,kube-arangodb,AH
+Github,KubeArmor,kubearmor,git://github.com/kubearmor/KubeArmor/main/deployments/helm/KubeArmor/templates/crds
+Github,KubeArmor Operator,kubearmor-operator,git://github.com/kubearmor/KubeArmor/main/deployments/helm/KubeArmorOperator
+Artifact Hub,Kube Auto Puller,kube-auto-puller,AH
+Artifact Hub,Kube Aws,kube-aws,AH
+Artifact Hub,Kube Azure,kube-azure,AH
+Artifact Hub,Kube Bench Adapter,kube-bench-adapter,AH
+Artifact Hub,Kube Ecr Secrets Operator,kube-ecr-secrets-operator,AH
+Artifact Hub,Kube Enforcer,kube-enforcer,AH
+Artifact Hub,Kube Gcp,kube-gcp,AH
+Artifact Hub,Kube Grafana Dashboards,kube-grafana-dashboards,AH
+Artifact Hub,Kube Mail,kube-mail,AH
+Artifact Hub,Kube Ovn,kube-ovn,AH
+Artifact Hub,Kube Prometheus,kube-prometheus,AH
+Artifact Hub,Kube Prometheus Stack,kube-prometheus-stack,AH
+Artifact Hub,Kube Rs,kube-rs,AH
+Artifact Hub,Kube Starrocks,kube-starrocks,AH
+Artifact Hub,Kubernetes UI Server,kube-ui-server,AH
+Artifact Hub,Kubeapps,kubeapps,AH
+Artifact Hub,Kubeav,kubeav,AH
+Artifact Hub,Kubedb,kubedb,AH
+Artifact Hub,Kubedb Catalog,kubedb-catalog,AH
+Artifact Hub,Kubedb CRDs,kubedb-crds,AH
+Artifact Hub,Kubedb Grafana Dashboards,kubedb-grafana-dashboards,AH
+Artifact Hub,Kubedb Metrics,kubedb-metrics,AH
+Artifact Hub,Kubedb Ops Manager,kubedb-ops-manager,AH
+Artifact Hub,Kubedb Opscenter,kubedb-opscenter,AH
+Artifact Hub,Kubedb UI Server,kubedb-ui-server,AH
+Artifact Hub,Kubedl,kubedl,AH
+Artifact Hub,Kubefed,kubefed,AH
+Artifact Hub,Kubeflow,kubeflow,AH
+Artifact Hub,Kubeform Provider AWS,kubeform-provider-aws,AH
+Artifact Hub,Kubeform Provider Civo Loadbalancer Crds,kubeform-provider-civo-loadbalancer-crds,AH
+Artifact Hub,Kubeform Provider Civo Snapshot Crds,kubeform-provider-civo-snapshot-crds,AH
+Artifact Hub,Kubeform Provider Civo Template Crds,kubeform-provider-civo-template-crds,AH
+Artifact Hub,Kubeform Provider Datadog Syntheticstest Crds,kubeform-provider-datadog-syntheticstest-crds,AH
+Artifact Hub,Kubegems,kubegems,AH
+Artifact Hub,Kubegems Edge,kubegems-edge,AH
+Artifact Hub,Kubegems Installer,kubegems-installer,AH
+Artifact Hub,Kubegems Local,kubegems-local,AH
+Artifact Hub,Kubegems Models,kubegems-models,AH
+Artifact Hub,Kubemod,kubemod,AH
+Artifact Hub,Kuberhealthy,kuberhealthy,AH
+Artifact Hub,Kubernetes,kubernetes,AH
+Artifact Hub,Kubernetes Chaos,kubernetes-chaos,AH
+Artifact Hub,Kubernetes External Secrets,kubernetes-external-secrets,AH
+Artifact Hub,HAProxy Kubernetes Ingress,kubernetes-ingress,AH
+Artifact Hub,Kubernetes Pipeline,kubernetes-pipeline,AH
+Artifact Hub,Kubernetes Secret Generator,kubernetes-secret-generator,AH
+Artifact Hub,Kubeslice Worker,kubeslice-worker,AH
+Artifact Hub,Kubesphere,kubesphere,AH
+Artifact Hub,Kubesphere,kubesphere,AH
+Artifact Hub,Kubeteach Core,kubeteach-core,AH
+Artifact Hub,Kubeteach Exerciseset1,kubeteach-exerciseset1,AH
+Artifact Hub,Kubevault,kubevault,AH
+Artifact Hub,Kubevault Catalog,kubevault-catalog,AH
+Artifact Hub,Kubevault Crds,kubevault-crds,AH
+Artifact Hub,Kubevault Metrics,kubevault-metrics,AH
+Artifact Hub,Kubevault Operator,kubevault-operator,AH
+Artifact Hub,Kubevela,kubevela,AH
+Artifact Hub,Kubevirt,kubevirt,AH
+Artifact Hub,Kudo,kudo,AH
+Artifact Hub,Kuma,kuma,AH
+Artifact Hub,Kured,kured,AH
+Artifact Hub,Kusk Gateway,kusk-gateway,AH
+Artifact Hub,Kvdi,kvdi,AH
+Artifact Hub,Kyverno Monitor,kyverno-monitor,AH
+Artifact Hub,Kyverno Operator,kyverno-operator,AH
+Artifact Hub,Lagoon Gatekeeper,lagoon-gatekeeper,AH
+Artifact Hub,Lagoon Logging,lagoon-logging,AH
+Artifact Hub,Lagoon Remote,lagoon-remote,AH
+Artifact Hub,Legend,legend,AH
+Artifact Hub,License Proxyserver,license-proxyserver,AH
+Artifact Hub,Lightrun K8S Operator,lightrun-k8s-operator,AH
+Artifact Hub,Linkerd,linkerd,AH
+Artifact Hub,Linux,linux,AH
+Artifact Hub,Litmus Chaos,litmus-core,AH
+Artifact Hub,Lm Container,lm-container,AH
+Artifact Hub,Logging Operator,logging-operator,AH
+Artifact Hub,Logiq,logiq,AH
+Artifact Hub,Loki,loki,AH
+Artifact Hub,Loki Simple Scalable,loki-simple-scalable,AH
+Artifact Hub,Longhorn,longhorn,AH
+Artifact Hub,Lumenvox,lumenvox,AH
+Artifact Hub,Maesh,maesh,AH
+Artifact Hub,MariaDB Operator,mariadb-operator,AH
+Artifact Hub,Mattermost Operator,mattermost-operator,AH
+Artifact Hub,Mayastor,mayastor,AH
+Artifact Hub,Medusa Operator,medusa-operator,AH
+meshery,Meshery Core,meshery-core,git://github.com/meshery/schemas/master/definitions/meshery-core/0.7.2/components
+Artifact Hub,Meshery Operator,meshery-operator,AH
+meshery,Meshery Shapes,meshery-shapes,git://github.com/meshery/schemas/master/definitions/meshery-shapes/0.7.2/components
+meshery,Meshery Flowchart,meshery-flowchart,git://github.com/meshery/schemas/master/definitions/meshery-flowchart/0.7.2/components
+Artifact Hub,Metacontroller,metacontroller,AH
+Artifact Hub,Metal3,metal3-io,AH
+Artifact Hub,Metallb,metallb,AH
+Artifact Hub,Mimir,mimir-distributed,AH
+Artifact Hub,MinIO Operator,minio-operator,AH
+Artifact Hub,Mongodb Operator,mongodb-operator,AH
+Artifact Hub,Moz Alert Controller,mozalert-controller,AH
+Artifact Hub,Kubeflow MPI Operator,mpi-operator,AH
+Artifact Hub,Multus,multus,AH
+Artifact Hub,MySQL Operator,mysql-operator,AH
+Artifact Hub,Namespace Configuration Operator,namespace-configuration-operator,AH
+Artifact Hub,NATS Operator,nats-operator,AH
+Artifact Hub,Ndb Operator,ndb-operator,AH
+Artifact Hub,Netris Operator,netris-operator,AH
+Artifact Hub,Network Service Mesh,network service mesh,AH
+Artifact Hub,New Relic Operator,newrelic-operator,AH
+Artifact Hub,Nexus Operator,nexus-operator,AH
+Artifact Hub,Nexus Operator,ng-speech,AH
+Artifact Hub,NGINX,nginx,AH
+Artifact Hub,NGINX Ingress Controller,nginx-ingress,AH
+Artifact Hub,NGINX Service Mesh,nginx-service-mesh,AH
+Artifact Hub,Ngrok Operator,ngrok-operator,AH
+Artifact Hub,Nirmata AWS Adapter,nirmata-aws-adapter,AH
+Artifact Hub,Nirmata Venafi Adapter,nirmata-venafi-adapter,AH
+Artifact Hub,Nocalhost,nocalhost,AH
+Artifact Hub,Notary,notary,AH
+Artifact Hub,Notebook Controller,notebook-controller,AH
+Artifact Hub,NRI Bundle,nri-bundle,AH
+Artifact Hub,Oam Kubernetes Runtime,oam-kubernetes-runtime,https://charts.crossplane.io/master/oam-kubernetes-runtime-0.4.0-rc1.18.g64a2994.tgz
+Artifact Hub,Oam Kubernetes Runtime Legacy,oam-kubernetes-runtime-legacy,AH
+Artifact Hub,Oam Runtime,oam-runtime,AH
+Artifact Hub,Oathkeeper,oathkeeper,AH
+Artifact Hub,Octopus,octopus,AH
+Artifact Hub,Odpi Egeria Lab,odpi-egeria-lab,AH
+Artifact Hub,ondat,ondat,https://github.com/ondat/charts/releases/download/ondat-0.2.9/ondat-0.2.9.tgz
+Artifact Hub,ondat-operator,ondat-operator,https://github.com/ondat/charts/releases/download/ondat-operator-0.7.4/ondat-operator-0.7.4.tgz
+Artifact Hub,One Eye,one-eye,AH
+Artifact Hub,Open Cluster Management,open cluster management,AH
+Artifact Hub,Open Policy Agent (OPA),open policy agent (opa),AH
+Artifact Hub,Open Service Mesh,open service mesh,AH
+Artifact Hub,OpenEBS,openebs,AH
+Artifact Hub,OpenELB,openelb,AH
+Artifact Hub,OpenFaaS,openfaas,https://openfaas.github.io/faas-netes/openfaas-13.1.1.tgz
+Artifact Hub,OpenFeature,openfeature,AH
+Artifact Hub,OpenGitOps,opengitops,AH
+Artifact Hub,Openkruise,openkruise,AH
+Artifact Hub,OpenMetrics,openmetrics,AH
+Artifact Hub,OpenTelemetry Operator,opentelemetry-operator,AH
+Artifact Hub,Openyurt,openyurt,AH
+Artifact Hub,Operator,operator,AH
+Artifact Hub,Operator Framework,operator framework,AH
+Artifact Hub,operator-crds,operator-crds,AH
+Artifact Hub,Opscenter Config,opscenter-config,AH
+Artifact Hub,Opscenter Core,opscenter-core,AH
+Artifact Hub,Oras,oras,AH
+Artifact Hub,Osm Edge,osm-edge,AH
+Artifact Hub,Paddle Cloud,paddlecloud,AH
+Artifact Hub,Panopticon,panopticon,AH
+Artifact Hub,Parsec,parsec,AH
+Artifact Hub,Pastey,pastey,https://github.com/truecharts/helm-staging/releases/download/pastey-3.0.4/pastey-3.0.4.tgz
+Artifact Hub,Perf Operator,perf-operator,AH
+Artifact Hub,Permission Manager,permission-manager,AH
+Artifact Hub,Postgres Database (CrunchyData),pg-db,AH
+Artifact Hub,Percona Postgres Operator,pg-operator,AH
+Artifact Hub,PGO (CrunchyData),pgo,AH
+Artifact Hub,Pinniped,pinniped,AH
+Artifact Hub,Pipelines,pipelines,AH
+Artifact Hub,Piraeus Datastore,piraeus datastore,AH
+Artifact Hub,Pixie,pixie,AH
+Artifact Hub,Pock Helm Chart,pock-helm-chart,AH
+Artifact Hub,Porter,porter,AH
+Artifact Hub,Postgres Controller,postgres-controller,AH
+Artifact Hub,Postgres Operator,postgres-operator,AH
+Artifact Hub,Postgres With Operator,postgres-with-operator,AH
+Artifact Hub,Posthog,posthog,AH
+Artifact Hub,Pravega,pravega,AH
+Artifact Hub,Prometheus,prometheus,AH
+Artifact Hub,Prometheus,prometheus,AH
+Artifact Hub,Prometheus Operator,prometheus-operator-crds,AH
+Artifact Hub,Percona Server for MySQL,ps-db,AH
+Artifact Hub,Percona Operator for MySQL,ps-operator,AH
+Artifact Hub,Percona Server for MongoDB,psmdb-db,AH
+Artifact Hub,Percona Operator for MongoDB,psmdb-operator,AH
+Artifact Hub,Pulsar Operator,pulsar-operator,AH
+Artifact Hub,Pulsar Resources Operator,pulsar-resources-operator,AH
+Artifact Hub,Pure Pso,pure-pso,AH
+Artifact Hub,Purelb,purelb,AH
+Artifact Hub,Pxc Db,pxc-db,AH
+Artifact Hub,Pxc Operator,pxc-operator,AH
+Artifact Hub,Pyrra,pyrra,AH
+Artifact Hub,RabbitMQ Cluster Operator,rabbitmq-cluster-operator,AH
+Artifact Hub,RabbitMQ Operator,rabbitmq-operator,AH
+Artifact Hub,rate-limit-operator,rate-limit-operator,https://charts.softonic.io/charts/rate-limit-operator-1.1.0.tgz
+Artifact Hub,Reaper Operator,reaper-operator,AH
+Artifact Hub,Redis Db Assignment Operator,redis-db-assignment-operator,AH
+Artifact Hub,Redis Operator,redis-operator,AH
+Artifact Hub,Redis Operator,redis-operator,AH
+Artifact Hub,Redpanda Operator,redpanda-operator,AH
+Artifact Hub,Registry Creds,registry-creds,AH
+Artifact Hub,Reporting Legacy Api,reporting-legacy-api,AH
+Artifact Hub,Resurface,resurface,AH
+Artifact Hub,Rollout,rollout,AH
+Artifact Hub,Rook,rook,AH
+Artifact Hub,Rustrial Aws Eks Iam Auth Controller,rustrial-aws-eks-iam-auth-controller,AH
+Artifact Hub,Rustrial K8S Gitops Secrets Controller,rustrial-k8s-gitops-secrets-controller,AH
+Artifact Hub,Saferwall,saferwall,AH
+Artifact Hub,Sasquatch,sasquatch,AH
+Artifact Hub,Scanner,scanner,AH
+Artifact Hub,Scheduler Plugins,scheduler-plugins,AH
+Artifact Hub,Schemahero,schemahero,AH
+Artifact Hub,Scribe,scribe,AH
+Artifact Hub,scrutiny,scrutiny,https://github.com/truecharts/helm-staging/releases/download/scrutiny-6.0.21/scrutiny-6.0.21.tgz
+Artifact Hub,Sealed Secrets,sealed-secrets,AH
+Artifact Hub,Secrets Store Reader,secrets-store-reader,AH
+Artifact Hub,Security Role Perm Operator Svc,security-role-perm-operator-svc,AH
+Artifact Hub,Serverless Devs,serverless devs,AH
+Artifact Hub,Serverless Workflow,serverless workflow,AH
+Artifact Hub,Service Mesh Interface (Smi),service mesh interface (smi),AH
+Artifact Hub,Service Binding Operator,service-binding-operator,AH
+Artifact Hub,Sidekick,sidekick,AH
+Artifact Hub,Silly Helm,silly-helm,AH
+Artifact Hub,Sitewhere Infrastructure,sitewhere-infrastructure,AH
+Artifact Hub,Skooner,skooner,AH
+Artifact Hub,Slack Operator,slack-operator,AH
+Artifact Hub,Sloth,sloth,AH
+Artifact Hub,Snapscheduler,snapscheduler,AH
+Artifact Hub,Snapshot Controller,snapshot-controller,AH
+Artifact Hub,Snapshot Validation Webhook,snapshot-validation-webhook,AH
+Artifact Hub,Soccrates,soccrates,AH
+Artifact Hub,Solr Operator,solr-operator,AH
+Artifact Hub,Sonar Operator,sonar-operator,AH
+Artifact Hub,Sops Operator,sops-operator,AH
+Artifact Hub,Sops Secrets Operator,sops-secrets-operator,AH
+Artifact Hub,spaceengineers,spaceengineers,https://github.com/truecharts/helm-staging/releases/download/spaceengineers-2.0.10/spaceengineers-2.0.10.tgz
+Artifact Hub,SPIFFE,spiffe,AH
+Artifact Hub,SPIRE,spire,AH
+Artifact Hub,SQL Operator,sql-operator,AH
+Artifact Hub,Sshpiper,sshpiper,AH
+Artifact Hub,Stack,stack,AH
+Artifact Hub,Stackgres Operator,stackgres-operator,AH
+Artifact Hub,stakater-tenant-operator,stakater-tenant-operator,https://stakater.github.io/stakater-charts/stakater-tenant-operator-0.7.13.tgz
+Artifact Hub,Starboard App,starboard-app,AH
+Artifact Hub,Starboard Operator,starboard-operator,AH
+Artifact Hub,Stash,stash,AH
+Artifact Hub,Stash Catalog,stash-catalog,AH
+Artifact Hub,Stash Crds,stash-crds,AH
+Artifact Hub,Stash Grafana Dashboards,stash-grafana-dashboards,AH
+Artifact Hub,Stash Metrics,stash-metrics,AH
+Artifact Hub,Stash Opscenter,stash-opscenter,AH
+Artifact Hub,Step Issuer,step-issuer,AH
+Artifact Hub,Stream,stream,AH
+Artifact Hub,Strimzi Kafka Operator,strimzi-kafka-operator,AH
+Artifact Hub,Strimzi Registry Operator,strimzi-registry-operator,AH
+Artifact Hub,Submariner,submariner,AH
+Artifact Hub,Sumologic,sumologic,AH
+Artifact Hub,supabase,supabase,https://charts.bitnami.com/bitnami/supabase-2.1.5.tgz
+Artifact Hub,Superedge,superedge,AH
+Artifact Hub,Supervisor,supervisor,AH
+Artifact Hub,Tcs Issuer,tcs-issuer,AH
+Artifact Hub,Telepresence,telepresence,AH
+Artifact Hub,Teller,teller,AH
+Artifact Hub,Tenant Operator,tenant-operator,AH
+Artifact Hub,Terraform,terraform,AH
+Artifact Hub,Terraform,terraform,AH
+Artifact Hub,Thanos,thanos,AH
+Artifact Hub,Thanos Operator,thanos-operator,AH
+Artifact Hub,Theia,theia,AH
+Artifact Hub,Tigera Operator,tigera-operator,AH
+Artifact Hub,Tikv Operator,tikv-operator,AH
+Artifact Hub,Tinkerbell,tinkerbell,AH
+Artifact Hub,Traefik Cloudflared Source Ip,traefik-cloudflared-source-ip,AH
+Artifact Hub,Traefik Mesh,traefik-mesh,AH
+Artifact Hub,Training Operator,training-operator,AH
+Artifact Hub,Tremor,tremor,AH
+Artifact Hub,Trickster,trickster,AH
+Artifact Hub,Trident Operator,trident-operator,AH
+Artifact Hub,Triggers,triggers,AH
+Artifact Hub,Trivy Operator,trivy-operator,AH
+Artifact Hub,Truenas Csp,truenas-csp,AH
+Artifact Hub,Tuf,tuf,AH
+Artifact Hub,Tyk Operator,tyk-operator,AH
+Artifact Hub,uffizzi-controller,uffizzi-controller,https://github.com/UffizziCloud/uffizzi_controller/releases/download/uffizzi-controller-2.0.1/uffizzi-controller-2.0.1.tgz
+Artifact Hub,Ui Presets,ui-presets,AH
+Artifact Hub,Umbrella,umbrella,AH
+Artifact Hub,Uniconfig,uniconfig,AH
+Artifact Hub,Vald,vald,AH
+Artifact Hub,Vald Helm Operator,vald-helm-operator,AH
+Artifact Hub,Vault Config Operator,vault-config-operator,AH
+Artifact Hub,Vault Operator,vault-operator,AH
+Artifact Hub,Vault Secrets,vault-secrets,AH
+Artifact Hub,vector-controller,vector-controller,AH
+Artifact Hub,Veilis Helm Charts,veilis-helm-charts,AH
+Artifact Hub,Vela Core,vela-core,AH
+Artifact Hub,Vela Core Legacy,vela-core-legacy,AH
+Artifact Hub,Vela Minimal,vela-minimal,AH
+Artifact Hub,Vela Rollout,vela-rollout,AH
+Artifact Hub,Vela Workflow,vela-workflow,AH
+Artifact Hub,Velero,velero,AH
+Artifact Hub,Velero S3 Deployment,velero-s3-deployment,AH
+Artifact Hub,Verticadb Operator,verticadb-operator,AH
+Artifact Hub,Vertical Pod Autoscaler,vertical-pod-autoscaler,AH
+Artifact Hub,Victoria Metrics K8S Stack,victoria-metrics-k8s-stack,AH
+Artifact Hub,Victoria Metrics,victoriametrics,AH
+Artifact Hub,Vihara,vihara,AH
+Artifact Hub,Vineyard,vineyard,AH
+Artifact Hub,Virtual Kubelet,virtual kubelet,AH
+Artifact Hub,Vitess,vitess,AH
+Artifact Hub,Vkpr,vkpr,AH
+Artifact Hub,Vmware Tanzu,vmware-tanzu,AH
+Artifact Hub,Voice Biometrics,voice-biometrics,AH
+Artifact Hub,Volcano,volcano,AH
+Artifact Hub,Volsync,volsync,AH
+Artifact Hub,Voyager Crds,voyager-crds,AH
+Artifact Hub,Vpa,vpa,AH
+Artifact Hub,Wallarm,wallarm,AH
+Artifact Hub,Wasmcloud,wasmcloud,AH
+Artifact Hub,Wasmedge Runtime,wasmedgeruntime,AH
+Artifact Hub,Webhookrelay Operator,webhookrelay-operator,AH
+Artifact Hub,Wener,wener,AH
+Artifact Hub,Wenerme,wenerme,AH
+Artifact Hub,Whereabouts,whereabouts,AH
+Artifact Hub,Windows,windows,AH
+Artifact Hub,Winter Soldier,winter-soldier,AH
+Artifact Hub,Wiremind,wiremind,AH
+Artifact Hub,Wordpress Operator,wordpress-operator,AH
+Artifact Hub,Workshop Operator,workshop-operator,AH
+Artifact Hub,Wyrihaximusnet,wyrihaximusnet,AH
+Artifact Hub,Yatai Deployment,yatai-deployment,AH
+Artifact Hub,Zeet,zeet,AH
+GitHub,AWS Elastic File System,aws-efs-controller,git://github.com/aws-controllers-k8s/efs-controller/main/helm
+GitHub,AWS Elastic Container Service,aws-ecs-controller,git://github.com/aws-controllers-k8s/ecs-controller/main/helm
+GitHub,AWS DocumentDB,aws-documentdb-controller,git://github.com/aws-controllers-k8s/documentdb-controller/main/helm
+GitHub,AWS CloudFront,aws-cloudfront-controller,git://github.com/aws-controllers-k8s/cloudfront-controller/main/helm
+GitHub,Whereabouts,whereabouts,git://github.com/bitnami/charts/main/bitnami/whereabouts
+GitHub,Kubernetes Metrics Server,metrics-server,https://github.com/kubernetes-sigs/metrics-server
+GitHub,Jaeger,jaegertracing,git://github.com/jaegertracing/helm-charts/main/charts/
+GitHub,OpenStack (Crossplane),crossplane-provider-openstack,git://github.com/crossplane-contrib/provider-openstack/main/package/crds/
+GitHub,OpenStack (Cluster API Provider),cluster-api-provider-openstack,git://github.com/kubernetes-sigs/cluster-api-provider-openstack/main/config/crd
+GitHub,Google Cloud Platform,k8s-config-connector,git://github.com/GoogleCloudPlatform/k8s-config-connector/master/crds
+GitHub,Cert-Manager,cert-manager,git://github.com/cert-manager/cert-manager/master/deploy/crds
+Artifact Hub,KEDA HTTP Scaler,keda-http-scaler,https://artifacthub.io/packages/search?ts_query_web=keda%20http&sort=relevance&page=1
