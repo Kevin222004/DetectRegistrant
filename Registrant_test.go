@@ -37,7 +37,6 @@ func parseCSV(filename string) (*Sheet, error) {
 		Data: make([]*Data, 0, len(records)-1),
 	}
 
-	// Skip the header row
 	for i, record := range records[1:] {
 		if len(record) < 4 {
 			return nil, fmt.Errorf("row %d has insufficient columns", i+2)
@@ -80,5 +79,5 @@ func TestFindRegistrant(t *testing.T) {
 		totalModel++
 	}
 
-	fmt.Println("checked ", totalModel)
+	fmt.Println("Total Model Checked ", totalModel)
 }
