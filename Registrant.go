@@ -2,6 +2,7 @@ package main
 
 import (
 	"net/url"
+	"strings"
 )
 
 /*
@@ -18,18 +19,17 @@ func FindRegistrant(source_url *url.URL) string {
 	var registrant string
 	protocol := source_url.Scheme
 	domain := source_url.Host
-	path := source_url.Path
-	//query := source_url.RawQuery
+	urlPath := source_url.Path
 
 	if protocol == "git" {
-		if isMeshery(path) {
+		if isMeshery(urlPath) {
 			registrant = "meshery"
 		} else {
 			registrant = "GitHub"
 		}
 	} else {
-		if domain == "github.com" && checktgzformat(path) == false {
-			if isMeshery(path) {
+		if domain == "github.com" && !strings.HasSuffix(strings.ToLower(urlPath), ".tgz") {
+			if isMeshery(urlPath) {
 				registrant = "meshery"
 			} else {
 				registrant = "GitHub"
@@ -42,22 +42,14 @@ func FindRegistrant(source_url *url.URL) string {
 	return registrant
 }
 
-func checktgzformat(s string) bool {
-	if len(s) <= 3 {
-		return false
-	}
-	if s[len(s)-3:] == "tgz" {
-		return true
-	}
-	return false
-}
+func isMeshery(urlPath string) bool {
+	segments := strings.Split(strings.Trim(urlPath, "/"), "/")
 
-func isMeshery(s string) bool {
-	if len(s) <= 8 {
-		return false
+	for _, segment := range segments {
+		if strings.EqualFold(segment, "meshery") {
+			return true
+		}
 	}
-	if s[:8] == "/meshery" {
-		return true
-	}
+
 	return false
 }
